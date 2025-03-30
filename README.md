@@ -1,4 +1,4 @@
-## Hi, I'm Derek!
+## Hi, I'm Derek! 👋
 
 I'm a data scientist and analytics professional with eight years of experience across multiple subject matter areas. Most receltly, I was creating interactive dashboards for safety compliance in the construction industry. Currently, I'm finishing a [Master of Data Science at UBC](https://masterdatascience.ubc.ca/).
 
