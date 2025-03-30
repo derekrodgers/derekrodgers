@@ -34,8 +34,10 @@ If you want to connect, shoot me a message on LinkedIn!
 
 ### 🕓 Version Control  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ---
 
 ## 🎧 Hobbies  
-![Software-defined Radio](https://img.shields.io/badge/Software--defined%20Radio-%23555.svg?style=for-the-badge)  ![Homelab](https://img.shields.io/badge/Homelab-%23555.svg?style=for-the-badge)
+[![Software-defined Radio](https://img.shields.io/badge/Software--defined%20Radio-%23555.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Software-defined_radio)  [![Homelab](https://img.shields.io/badge/Homelab-%23555.svg?style=for-the-badge)](https://www.reddit.com/r/homelab/)
+
 ---
