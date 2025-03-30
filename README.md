@@ -22,7 +22,7 @@ If you want to connect, shoot me a message on LinkedIn!
 
 ### 📊 Data Science Tools  
 
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/) [![tidyverse](https://img.shields.io/badge/tidyverse-%23E26D5C.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.tidyverse.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/) [![tidyverse](https://img.shields.io/badge/tidyverse-%23E26D5C.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.tidyverse.org/) [![Apache Lucene](https://img.shields.io/badge/Apache%20Lucene-%23E9152D.svg?style=for-the-badge&logo=apache&logoColor=white)](https://lucene.apache.org/)
 
 ### 📈 Dashboards and Visualization  
 
