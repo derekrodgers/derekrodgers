@@ -22,7 +22,7 @@ If you want to connect, shoot me a message on LinkedIn!
 ### 📊 Data Science Tools  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![tidyverse](https://img.shields.io/badge/tidyverse-%23E26D5C.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### 📈 Data Visualization and Dashboards  
+### 📈 Dashboards and Visualization
 ![Looker](https://img.shields.io/badge/Looker-%232B579A.svg?style=for-the-badge&logo=looker&logoColor=white) ![Dash](https://img.shields.io/badge/Dash-%230074B6.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Altair](https://img.shields.io/badge/Altair-%23F49F0A.svg?style=for-the-badge&logo=altair&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![Shiny](https://img.shields.io/badge/Shiny-%230A85FF.svg?style=for-the-badge&logo=rstudio&logoColor=white)  ![ggplot2](https://img.shields.io/badge/ggplot2-%233B9CCC.svg?style=for-the-badge&logo=rstudio&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 ### 💾 Databases  
