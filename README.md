@@ -14,6 +14,8 @@ If you want to connect, shoot me a message on LinkedIn!
   </a>
 </p>
 
+[![Website](https://img.shields.io/badge/Website-databyderek.com-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://databyderek.com)
+
 ## Experience
 
 ### Languages  
