@@ -8,12 +8,6 @@ For fun between classes, I've been working on an interactive dashboard for explo
 
 If you want to connect, shoot me a message on LinkedIn!
 
-<p>
-  <a href="https://vancouvertrees.databyderek.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derekgrodgers/) [![Website](https://img.shields.io/badge/Website-databyderek.com-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://databyderek.com)
 
 ## Experience
