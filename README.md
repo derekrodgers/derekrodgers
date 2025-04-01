@@ -4,7 +4,7 @@ I'm a data scientist and analytics professional with eight years of experience a
 
 I love solving complex technical problems, especially wrangling, analyzing, interactively exploring, and interpreting data.
 
-For fun between classes, I've been working on an interactive dashboard for exploring Vancouver's Public Trees. [Check it out](https://vancouvertrees.databyderek.com/)!
+For fun between classes, I've been working on an interactive dashboard for exploring Vancouver's Public Trees. [Check it out](https://databyderek.com/vancouvertrees/)!
 
 If you want to connect, shoot me a message on LinkedIn!
 
