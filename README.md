@@ -2,9 +2,9 @@
 
 I'm a data scientist and analytics professional with eight years of experience across multiple subject matter areas. Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. Currently, I'm finishing a [Master of Data Science](https://masterdatascience.ubc.ca/) at UBC.
 
-For fun between classes, I've been working on an interactive dashboard for exploring Vancouver's Public Trees. [Check it out](https://databyderek.shinyapps.io/vancouver-trees-dashboard/)!
-
 I love solving complex technical problems, especially wrangling, analyzing, interactively exploring, and interpreting data.
+
+For fun between classes, I've been working on an interactive dashboard for exploring Vancouver's Public Trees. [Check it out](https://databyderek.shinyapps.io/vancouver-trees-dashboard/)!
 
 If you want to connect, shoot me a message on LinkedIn!
 
