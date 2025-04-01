@@ -14,7 +14,7 @@ If you want to connect, shoot me a message on LinkedIn!
   </a>
 </p>
 
-[![Website](https://img.shields.io/badge/Website-databyderek.com-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://databyderek.com)
+[![Java]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white))](https://vancouvertrees.databyderek.com/) [![Website](https://img.shields.io/badge/Website-databyderek.com-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://databyderek.com)
 
 ## Experience
 
