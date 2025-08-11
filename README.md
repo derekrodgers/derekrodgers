@@ -1,12 +1,14 @@
 ## Hi, I'm Derek!
 
-I'm a data scientist and analytics professional with eight years of experience across multiple subject matter areas. Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. Currently, I'm finishing a [Master of Data Science](https://masterdatascience.ubc.ca/) at UBC.
+I'm a data scientist and analytics professional with eight years of experience across multiple subject matter areas. 
+
+Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated from the [Master of Data Science](https://masterdatascience.ubc.ca/) at [UBC](https://www.ubc.ca/).
 
 I love solving complex technical problems, especially wrangling, analyzing, interactively exploring, and interpreting data.
 
-For fun between classes, I've been working on an interactive dashboard for exploring Vancouver's Public Trees. [Check it out](https://databyderek.com/vancouvertrees/)!
+For fun in my free time, I've been working on an interactive dashboard for exploring Vancouver's Public Trees. [Check it out](https://databyderek.com/vancouvertrees/)!
 
-If you want to connect, shoot me a message on LinkedIn!
+If you want to connect, send me a message on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derekgrodgers/) [![Website](https://img.shields.io/badge/Website-databyderek.com-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://databyderek.com)
 
