@@ -6,7 +6,7 @@ Most recently, I was creating [interactive dashboards](https://www.salussafety.i
 
 I love solving complex technical problems, especially wrangling, analyzing, interactively exploring, and interpreting data.
 
-For fun in my free time, I've been working on an interactive dashboard for exploring Vancouver's Public Trees. [Check it out](https://databyderek.com/vancouvertrees/)!
+For fun in my free time, I've been working on an interactive dashboard for exploring [Vancouver's Public Trees](https://databyderek.com/vancouvertrees/)!
 
 If you want to connect, send me a message on LinkedIn:
 
