@@ -16,7 +16,12 @@ If you want to connect, send me a message on LinkedIn:
 
 ### Languages  
 
-[![Python](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://en.wikipedia.org/wiki/SQL)   [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))  [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Python](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://en.wikipedia.org/wiki/SQL) 
+
+[![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
 
 ### Data Science Tools  
 
