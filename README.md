@@ -1,6 +1,6 @@
 ## Hi, I'm Derek!
 
-I’m a data scientist with more than six years of analytics experience across multiple domains.
+I'm a data scientist and analytics professional with extensive experience across multiple domains.
 
 Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated from the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia.
 
