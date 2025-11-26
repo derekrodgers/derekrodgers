@@ -2,7 +2,7 @@
 
 I’m a data scientist with more than six years of analytics experience across multiple domains.
 
-Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated from [UBC](https://www.ubc.ca/) with a [Master of Data Science](https://masterdatascience.ubc.ca/).
+Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated from the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia.
 
 I love solving complex technical problems, especially wrangling, analyzing, interactively exploring, and interpreting data.
 
