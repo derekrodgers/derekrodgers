@@ -4,8 +4,6 @@ I'm a data scientist and analytics professional with extensive experience across
 
 Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated from the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia.
 
-I love solving complex technical problems, especially wrangling, analyzing, interactively exploring, and interpreting data.
-
 If you want to connect, send me a message on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derekgrodgers/)
