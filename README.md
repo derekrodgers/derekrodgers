@@ -1,10 +1,10 @@
 ## Hi, I'm Derek!
 
-I'm a data scientist and analytics professional with extensive experience across multiple domains.
+I'm a data scientist and analytics professional with 6+ years in SaaS and science.
 
 Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated from the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia.
 
-If you want to connect, send me a message on LinkedIn:
+Want to connect? Message me on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derekgrodgers/)
 [![Website](https://img.shields.io/badge/Website-databyderek.com-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://databyderek.com)
