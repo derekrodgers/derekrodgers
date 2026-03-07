@@ -2,7 +2,7 @@
 
 I'm a data scientist and analytics professional with 6+ years in SaaS and science.
 
-Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated from the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia.
+Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated from the [Master of Data Science](https://masterdatascience.ubc.ca/) program at [UBC](https://www.ubc.ca/).
 
 Want to connect? Message me on LinkedIn:
 
