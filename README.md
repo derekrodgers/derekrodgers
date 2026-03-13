@@ -2,7 +2,7 @@
 
 I'm a data scientist and analytics professional with 6+ years in SaaS and science.
 
-Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated from the [Master of Data Science](https://masterdatascience.ubc.ca/) program at [UBC](https://www.ubc.ca/).
+Most recently, I was creating [interactive dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated with a [Master of Data Science](https://masterdatascience.ubc.ca/) from [UBC](https://www.ubc.ca/).
 
 [![Website](https://img.shields.io/badge/Website-databyderek.com-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://databyderek.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derekgrodgers/)
