@@ -1,6 +1,6 @@
 ## Hi, I'm Derek!
 
-I'm a senior Data Scientist with 6+ years of industry experience.
+I'm a Data Scientist with 6+ years of industry experience.
 
 Most recently, I was creating [dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated with a [Master of Data Science](https://masterdatascience.ubc.ca/) from [UBC](https://www.ubc.ca/).
 
