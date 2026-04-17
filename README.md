@@ -1,6 +1,6 @@
 ## Hi, I'm Derek!
 
-I'm a Data Scientist with 6+ years of industry experience.
+I'm a data scientist and analytics professional with 6+ years in multiple industries including life sciences, biopharma, and construction. 
 
 Most recently, I was creating [dashboards](https://www.salussafety.io/reporting) for the construction industry. In 2025, I graduated with a [Master of Data Science](https://masterdatascience.ubc.ca/) from [UBC](https://www.ubc.ca/).
 
